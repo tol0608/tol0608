@@ -2,14 +2,14 @@
 
 ### JaeHyeon👀  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-# <div align="center">안녕하세요. 항상 생각하고 실천하는 취업준비생 이재현입니다.</div>  
+## 안녕하세요. 항상 생각하고 실천하는 취업준비생 이재현입니다.  
   
 
-## **저는 이런사람입니다.**  
+### 저는 이런사람입니다.  
   
 
 - 퍼블리셔 💻  
